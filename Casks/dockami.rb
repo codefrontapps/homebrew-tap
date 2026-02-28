@@ -1,6 +1,6 @@
 cask "dockami" do
   version "1.2.1"
-  sha256 "95b9c690e92484f6578962557ccf49f62af532cabee57c2d74a74ce32f55f8b7"
+  sha256 "3cfd956a77c17fcef1d7bcd3e2e37f102a7ad4e7434b86bc221850702b9cd0cf"
 
   url "https://github.com/codefrontapps/DockAmi/releases/download/v#{version}/DockAmi.dmg"
   name "DockAmi"
